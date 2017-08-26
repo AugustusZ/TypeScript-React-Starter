@@ -1,6 +1,6 @@
 # TypeScript React Starter
 
-This is stater repo
+This is a starter repo
 
 * of React and TypeScript
 * linting with [TSLint](https://github.com/palantir/tslint)
