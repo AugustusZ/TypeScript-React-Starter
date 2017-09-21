@@ -1,8 +1,9 @@
-# TypeScript React Starter
+# React Sass TypeScript Starter
 
-This is a starter repo
+This is a starter branch
 
-* of React and TypeScript
+* of
+  * React
+  * SASS
+  * TypeScript
 * linting with [TSLint](https://github.com/palantir/tslint)
-* testing with [Jest](https://facebook.github.io/jest/) and [Enzyme](http://airbnb.io/enzyme/), and
-* state management with [Redux](https://github.com/reactjs/react-redux)
