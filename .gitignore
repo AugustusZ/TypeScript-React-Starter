@@ -13,3 +13,8 @@
 .DS_Store
 .env
 npm-debug.log
+
+# scss
+.sass-cache/
+*.css.map
+*.css
