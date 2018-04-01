@@ -1,9 +1,11 @@
-# React Sass TypeScript Starter
+# TypeScript-React-Sass Starter
 
-This is a starter branch
+This is a starter for a project
 
-* of
-  * React
+* using
+  * TypeScript (v2.8)
+  * React (v16.3)
   * SASS
-  * TypeScript
-* linting with [TSLint](https://github.com/palantir/tslint)
+* linting with
+  * [TSLint](https://github.com/palantir/tslint)
+  * [tslint-config-airbnb](https://github.com/progre/tslint-config-airbnb)
